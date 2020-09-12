@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name = "Data.Person" table="users">
+        <id name = "id" type = "int"  column="id">
+            <generator class="native"/>
+        </id>
+        <!---<property name="name" type="java.lang.String" column="Name" />
+        <property name="surname"  type="java.lang.Integer" column="Surname" />-->
+    </class>
+</hibernate-mapping>

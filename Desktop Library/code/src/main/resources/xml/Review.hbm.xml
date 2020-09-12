@@ -1,0 +1,20 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name = "Data.Review" table = "reviews">
+        <id name = "id" type = "int" column = "id">
+            <generator class="native"/>
+        </id>
+        <property name="user_id" column="user_id" type="int" />
+        <property name="rate" column="rate" type="java.lang.Integer" />
+        <property name="date" column="date" type="java.lang.String" />
+        <property name="book" column="book" type="java.lang.String" />
+        <property name="text" column="review" type="java.lang.String"/>
+
+
+
+    </class>
+</hibernate-mapping>

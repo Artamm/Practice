@@ -1,0 +1,10 @@
+C:\Users\Abysswalker\Desktop\Sort\Number3\Number3\obj\Debug\Number3.csprojResolveAssemblyReference.cache
+C:\Users\Abysswalker\Desktop\Sort\Number3\Number3\obj\Debug\Number3.Form1.resources
+C:\Users\Abysswalker\Desktop\Sort\Number3\Number3\obj\Debug\Number3.Properties.Resources.resources
+C:\Users\Abysswalker\Desktop\Sort\Number3\Number3\obj\Debug\Number3.csproj.GenerateResource.Cache
+C:\Users\Abysswalker\Desktop\Sort\Number3\Number3\obj\Debug\Number3.csproj.CoreCompileInputs.cache
+C:\Users\Abysswalker\Desktop\Sort\Number3\Number3\bin\Debug\Number3.exe.config
+C:\Users\Abysswalker\Desktop\Sort\Number3\Number3\bin\Debug\Number3.exe
+C:\Users\Abysswalker\Desktop\Sort\Number3\Number3\bin\Debug\Number3.pdb
+C:\Users\Abysswalker\Desktop\Sort\Number3\Number3\obj\Debug\Number3.exe
+C:\Users\Abysswalker\Desktop\Sort\Number3\Number3\obj\Debug\Number3.pdb

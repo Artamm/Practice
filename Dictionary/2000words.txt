@@ -1,0 +1,2000 @@
+abacus,счеты,abacus
+abdomen,живот,pilvas
+abdominal,абдоминальный,pilvo
+abide,Пребудьте,laikytis
+abiding,пребывающего,laikantis
+ability,способность,sugebėjimas
+ablaze,пылать,nugramzdinti
+able,в состоянии,sugeba
+abnormal,ненормальный,nenormalus
+abrasion,истирание,dilimas
+abrasive,абразивный,abrazyvas
+abreast,в ряд,neatsilikti
+abridge,Публикуется краткое,sutrumpinti
+abroad,за границу,užsienyje
+abruptly,резко,staiga
+absence,отсутствие,nebuvimas
+absentee,отсутствующий,nebūna
+absently,рассеянно,nedalyvauja
+absinthe,абсент,absentas
+absolute,абсолютный,absoliutus
+absolve,освобождать,atleisti
+abstain,воздерживаются,susilaikyti
+abstract,Аннотация,abstraktus
+absurd,абсурд,absurdas
+accent,акцент,akcentas
+acclaim,шумное приветствие,pritarti
+acclimate,акклиматизироваться,aklimatizuotis
+accompany,сопровождать,lydėti
+account,Счет,sąskaitą
+accuracy,точность,tikslumas
+accurate,точный,tikslus
+accustom,приучать,įpratimas
+acetone,ацетон,acetonas
+achiness,achiness,aistringumas
+aching,болящий,skauda
+acid,кислота,rūgšties
+acorn,желудь,gilė
+acquaint,знакомить,pažįsta
+acquire,приобретать,įsigyti
+acre,акр,akras
+acrobat,акробат,akrobatas
+acronym,акроним,akronimas
+acting,игра актеров,vaidyba
+action,действие,veiksmas
+activate,Активизировать,aktyvuoti
+activator,активатор,aktyvatorius
+active,активный,aktyvus
+activism,активность,aktyvizmas
+activist,активист,aktyvistas
+activity,Мероприятия,veikla
+actress,актриса,Aktorė
+acts,акты,aktai
+acutely,остро,aštriai
+acuteness,сообразительность,aštrumas
+aeration,аэрация,aeracija
+aerobics,аэробика,aerobika
+aerosol,аэрозоль,aerozolis
+aerospace,авиационно-космический,aviacija
+afar,издалека,iš tolo
+affair,дело,reikalas
+affected,пострадавших,paveiktas
+affecting,затрагивающий,paveikiantis
+affection,привязанность,prisirišimas
+affidavit,аффидавит,pasižadėjimas
+affiliate,филиал,filialas
+affirm,Подтверждают,patvirtinti
+affix,аффикс,pritvirtinti
+afflicted,страждущих,kenčia
+affluent,полноводный,turtingi
+afford,позволить себе,sau leisti
+affront,оскорбление,smerkti
+aflame,пылающий,liepsna
+afloat,на плаву,paviršiuje
+aflutter,трепетный,plikyti
+afoot,в движении,pirmyn
+afraid,боятся,išsigandęs
+afterglow,послесвечение,pošvytėjimas
+afterlife,загробная жизнь,pomirtinis gyvenimas
+aftermath,отава,pasekmės
+aftermost,ближайший к корме,be galo
+afternoon,после полудня,popietę
+aged,престарелый,amžiaus
+ageless,нестареющий,amžinas
+agency,агентство,Agentūra
+agenda,повестка дня,darbotvarkė
+agent,агент,agentas
+aggregate,совокупный,agregatas
+aghast,ошеломленный,susierzinęs
+agile,проворный,judrus
+agility,проворство,judrumas
+aging,старение,senėjimas
+agnostic,агностик,agnostikas
+agonize,мучиться,agonija
+agonizing,мучительный,kankinantis
+agony,агония,agonija
+agreeable,приятный,malonus
+agreeably,приятно,sutartinai
+agreed,согласовано,sutiko
+agreeing,соглашаясь,sutinkant
+agreement,соглашение,susitarimas
+aground,на мели,žemė
+ahead,впереди,priekyje
+ahoy,на палубе,Ahoy
+aide,помощник,aide
+aids,вспомогательные средства,pagalbines priemones
+aim,цель,tikslas
+ajar,приоткрытый,ajar
+alabaster,алебастр,alabasteris
+alarm,аварийная сигнализация,aliarmas
+albatross,альбатрос,albatrosas
+album,альбом,albumas
+alfalfa,люцерна,liucerna
+algebra,алгебра,algebra
+algorithm,алгоритм,algoritmas
+alias,псевдоним,slapyvardis
+alibi,алиби,alibi
+alienable,отчуждаемый,svetimas
+alienate,отчуждать,susvetimėti
+aliens,инопланетяне,ateiviai
+alike,подобно,panašiai
+alive,живой,gyvas
+alkaline,щелочной,šarminis
+alkalize,подщелачивать,šarminti
+almanac,альманах,almanachas
+almighty,всемогущий,visagalis
+almost,почти,beveik
+aloe,алоэ,alavijo
+aloft,наверх,aukšta
+aloha,алоха,aloha
+alone,в одиночестве,vienas
+alongside,рядом,greta
+aloof,отчужденный,atskirai
+alphabet,алфавит,abėcėlė
+alright,хорошо,gerai
+although,хотя,nors
+altitude,высота над уровнем моря,aukštyje
+alto,альт,altas
+aluminum,алюминий,aliuminio
+alumni,выпускников,absolventų
+always,всегда,visada
+amaretto,амаретто,amaretas
+amaze,Удивите,stebinti
+amazingly,удивительно,nuostabiai
+amber,янтарный,gintaras
+ambiance,атмосфера,atmosfera
+ambiguity,неоднозначность,dviprasmiškumas
+ambiguous,двусмысленный,dviprasmiškas
+ambition,амбиция,užmojai
+ambitious,честолюбивый,ambicingas
+ambulance,скорая помощь,greitosios pagalbos automobilis
+ambush,засада,pasalą
+amendable,исправимый,pataisomas
+amendment,поправка,pataisa
+amends,возмещение,pataiso
+amenity,удобства,patogumas
+amiable,любезный,linksmas
+amicably,миролюбиво,draugiškai
+amid,среди,viduryje
+amigo,приятель,amigo
+amino,амино-,amino
+amiss,неладно,negerai
+ammonia,аммиак,amoniakas
+ammonium,аммоний,amonio
+amnesty,амнистировать,amnestija
+amniotic,амниотический,amniono
+among,среди,tarp
+amount,количество,suma
+amperage,сила тока,amperais
+ample,обильный,daug
+amplifier,усилитель звука,stiprintuvas
+amplify,Amplify,didinti
+amply,пространно,pakankamai
+amuck,набрасываться,amuck
+amulet,амулет,amuletas
+amusable,amusable,linksmas
+amused,довольный,linksminosi
+amusement,развлечение,pasilinksminimas
+amuser,amuser,mėgėjas
+amusing,забавный,linksmas
+anaconda,анаконда,anakonda
+anaerobic,анаэробный,anaerobinis
+anagram,анаграмма,anagrama
+anatomist,анатом,anatomė
+anatomy,анатомия,anatomija
+anchor,якорь,inkaras
+anchovy,анчоус,ančiuviai
+ancient,древний,senovės
+android,андроид,android
+anemia,анемия,anemija
+anemic,малокровный,aneminis
+aneurism,аневризма,aneurizmas
+anew,заново,iš naujo
+angelfish,брама,angeliukas
+angelic,ангельский,angelas
+anger,гнев,pyktis
+angled,под углом,kampuotas
+angler,морской черт,meškeriotojas
+angles,углы,kampai
+angling,ужение,meškeriojimas
+angrily,сердито,piktai
+angriness,angriness,pyktis
+anguished,с болью,skausmingas
+angular,угловая,kampinis
+animal,животное,gyvūnas
+animate,одушевленный,pagyvinti
+animating,оживляющий,pagyvinimas
+animation,анимация,animacija
+animator,мультипликатор,animatorius
+anime,аниме,anime
+animosity,злоба,priešiškumas
+ankle,лодыжка,kulkšnis
+annex,приложение,priedas
+annotate,аннотировать,komentuoti
+announcer,диктор,diktorius
+annoying,раздражающий,erzina
+annually,ежегодно,kasmet
+annuity,аннуитет,anuitetas
+anointer,anointer,anointer
+another,еще один,kita
+answering,автоответчик,atsakydamas
+antacid,противокислотный,antacidinis
+antarctic,Антарктида,Antarktida
+anteater,муравьед,skruzdėlynas
+antelope,антилопа,antilopė
+antennae,усики,antenos
+anthem,гимн,himnas
+anthill,муравейник,skruzdėlynas
+anthology,антология,antologija
+antibody,антитело,antikūnas
+antics,гримасы,antikai
+antidote,антидот,priešnuodis
+antihero,анти герой,antiherojus
+antiquely,antiquely,senovėje
+antiques,антиквариат,antikvariniai daiktai
+antiquity,древность,antika
+antirust,Антикоррозийная,antikorupcija
+antitoxic,противоядный,antitoksinis
+antitrust,антимонопольный,antimonopolinė
+antiviral,противовирусный,antivirusinis
+antivirus,антивирус,antivirusinė
+antler,олений рог,skruzdėlynas
+antonym,антоним,antonimas
+antsy,дерганый,skruzdėlynas
+anvil,наковальня,priekalas
+anybody,кто-нибудь,bet kas
+anyhow,во всяком случае,šiaip ar taip
+anymore,больше не,daugiau
+anyone,кто-нибудь,bet kas
+anyplace,любое место,bet kuri vieta
+anything,что-нибудь,nieko
+anytime,в любой момент,bet kada
+anyway,так или иначе,šiaip ar taip
+anywhere,в любом месте,bet kur
+aorta,аорта,aorta
+apache,апаш,apache
+apostle,апостол,apaštalas
+appealing,привлекательный,patrauklus
+appear,появиться,pasirodyti
+appease,успокаивать,nuraminti
+appeasing,Appeasing,patrauklus
+appendage,придаток,priedėlis
+appendix,приложение,priedėlis
+appetite,аппетит,apetitas
+appetizer,закуска,užkandis
+applaud,аплодируют,plojimai
+applause,аплодисменты,plojimai
+apple,яблоко,obuolys
+appliance,прибор,prietaisas
+applicant,заявитель,pareiškėjas
+applied,прикладная,pritaikytas
+apply,подать заявление,taikyti
+appointee,назначаемое лицо,paskyrėjas
+appraisal,оценка,vertinimas
+appraiser,оценщик,vertintojas
+apprehend,предчувствовать,sulaikyti
+approach,подход,metodas
+approval,утверждение,patvirtinimas
+approve,утвердить,patvirtinti
+apricot,абрикос,abrikosas
+april,апрель,Balandis
+apron,фартук,prijuostė
+aptitude,уместность,gabumai
+aptly,метко,taikliai
+aqua,вода,akva
+aqueduct,акведук,Akvedukas
+arbitrary,произвольный,savavališkas
+arbitrate,Арбитраж,arbitražas
+ardently,пылко,aršiai
+area,площадь,plotas
+arena,арена,arena
+arguable,спорный,ginčijamasi
+arguably,спорно,ginčijamai
+argue,спорить,ginčytis
+arise,возникать,kilti
+armadillo,броненосец,šarvuotis
+armband,нарукавная повязка,raištį
+armchair,кресло,fotelis
+armed,вооружившись,ginkluotas
+armful,охапка,šarvuotas
+armhole,пройма,porankis
+arming,вооружение,ginkluoti
+armless,безрукий,berankis
+armoire,шкаф,armoire
+armored,бронированный,šarvuotas
+armory,оружейный,ginkluotė
+armrest,подлокотник,porankis
+army,армия,armija
+aroma,аромат,aromatas
+arose,возникал,atsirado
+around,вокруг,aplink
+arousal,пробуждение,susijaudinimas
+arrange,организовать,susitarti
+array,массив,masyvas
+arrest,арестовывать,areštas
+arrival,прибытие,atvykimas
+arrive,прибыть,atvykti
+arrogance,высокомерие,arogancija
+arrogant,высокомерный,arogantiškas
+arson,поджог,padegimas
+art,Изобразительное искусство,menas
+ascend,восходить,pakilti
+ascension,восхождение,pakilimas
+ascent,восхождение,pakilimas
+ascertain,констатируют,išsiaiškinti
+ashamed,совестно,gėda
+ashen,пепельный,pelenai
+ashes,пепел,pelenai
+ashy,пепельный,pelenai
+aside,в стороне,panaikinti
+askew,косо,askew
+asleep,спящий,miega
+asparagus,спаржа,šparagai
+aspect,аспект,aspektas
+aspirate,придыхательный,aspiracija
+aspire,стремиться,trokšti
+aspirin,аспирин,aspirinas
+astonish,Astonish,nustebinti
+astound,Astound,stulbinantis
+astride,верхом,astride
+astrology,астрология,astrologija
+astronaut,космонавт,astronautas
+astronomy,астрономия,astronomija
+astute,проницательный,nuovokus
+atlantic,Атлантика,atlanto
+atlas,атлас,atlasas
+atom,атом,atomas
+atonable,atonable,protingas
+atop,сверху,viršuje
+atrium,Атриум,prieširdyje
+atrocious,отвратительный,žiauriai
+atrophy,атрофия,atrofija
+attach,прикреплять,prisegti
+attain,достигать,pasiekti
+attempt,попытка,bandymas
+attendant,служитель,palydovas
+attendee,участник,dalyvis
+attention,внимание,dėmesio
+attentive,внимательный,dėmesingas
+attest,свидетельствуют,patvirtinti
+attic,чердак,palėpė
+attire,наряд,drabužis
+attitude,отношение,požiūris
+attractor,аттрактор,atraktorius
+attribute,атрибут,atributas
+atypical,нетипичный,netipiškas
+auction,торг,aukcionas
+audacious,дерзновенный,drąsus
+audacity,дерзость,drąsumas
+audible,слышимый,girdimas
+audibly,внятно,garsiai
+audience,зрительская аудитория,auditorija
+audio,аудио,garso
+audition,прослушивание,klausa
+augmented,дополненной,papildytas
+august,августейший,Rugpjūtis
+authentic,аутентичный,autentiškas
+author,автор,autorius
+autism,аутизм,autizmas
+autistic,аутистический,autistas
+autograph,автограф,autografas
+automaker,автопроизводитель,automobilių gamintojas
+automated,автоматизированный,automatizuotas
+automatic,автоматический,automatinis
+autopilot,автопилот,autopilotas
+available,имеется в наличии,prieinama
+avalanche,лавина,lavina
+avatar,аватар,avataras
+avenge,мстить,keršto
+avenging,мстительный,keršto
+avenue,проспект,alėja
+average,средний,vidutinis
+aversion,антипатия,baimė
+avert,AVERT,išvengti
+aviation,авиация,aviacija
+aviator,авиатор,aviatorius
+avid,алчный,Aistringas
+avoid,избегать,venkite
+await,Ждите,laukti
+awaken,разбудите,pabusti
+award,награда,apdovanojimas
+aware,знать,žinodamas
+awhile,какое-то время,kurį laiką
+awkward,неловко,nepatogu
+awning,тент,tentas
+awoke,проснулась,pabudo
+awry,косо,baisu
+axis,ось,ašis
+babble,лепет,mušti
+babbling,болтовня,mušimas
+babied,нянчиться,kūdikis
+baboon,бабуин,babuinas
+backache,люмбаго,nugaros skausmai
+backboard,спинодержатель,galinė lenta
+backboned,позвоночные,atsukta atgal
+backdrop,фон,fonas
+backed,при поддержке,palaikė
+backer,поручитель,rėmėjas
+backfield,Бекфилд,užnugaris
+backfire,иметь неприятные последствия,atbulinis gaisras
+backhand,удар слева,atgalinis
+backing,поддержка,atrama
+backlands,backlands,užnugaryje
+backlash,люфт,atsilikimas
+backless,без спинки,be galo
+backlight,подсветка,foninis apšvietimas
+backlit,с подсветкой,apšviestas
+backlog,отставание,atsilikimas
+backpack,рюкзак,kuprinė
+backpedal,идти на попятный,backpedal
+backrest,спинка,atlošas
+backroom,засекреченный,užpakalinis kambarys
+backshift,backshift,atgalinis poslinkis
+backside,задняя сторона,užpakalinė dalis
+backslid,отпали,atlošas
+backspace,возврат на одну позицию,Backspace
+backspin,подкрутка,nugarkaulis
+backstab,Backstab,backstab
+backstage,за кулисы,užkulisiai
+backtalk,дерзкий ответ,atgalinis
+backtrack,отступаться,atgalinis takelis
+backup,резервное копирование,atsarginę kopiją
+backward,назад,atgal
+backwash,промывка,atgalinis plovimas
+backwater,заводь,vandens telkinys
+backyard,задний двор,galinis kiemas
+bacon,бекон,lašiniai
+bacteria,бактерии,bakterijos
+bacterium,бактерия,bakterija
+badass,задира,Blogiukas
+badge,значок,ženkliukas
+badland,Badland,badland
+badly,плохо,blogai
+badness,негодность,blogumas
+baffle,дефлектор,atitraukti
+baffling,затруднительный,nerimas
+bagel,рогалик,bagelis
+bagful,полный мешок,maišas
+baggage,Багаж,bagazas
+bagged,упаковываются,maišas
+baggie,пакетик,bagetė
+bagginess,мешковатость,baugumas
+bagging,мешковина,maišas
+baggy,мешковатый,maišas
+bagpipe,волынка,dūdmaišis
+baguette,багет,bagetas
+baked,запеченный,kepti
+bakery,пекарня,kepykla
+bakeshop,пекарня,kepėjas
+baking,выпечка,kepimo
+balance,остаток средств,pusiausvyra
+balancing,балансировка,balansavimas
+balcony,балкон,balkonas
+balmy,бальзамический,balzamas
+balsamic,бальзамического,balzaminis
+bamboo,бамбук,bambukas
+banana,банан,bananas
+banish,Изгнать,ištremti
+banister,перила,kankorėžis
+banjo,банджо,bandžo
+bankable,приемлемый,bankingas
+bankbook,банковская книжка,banko knyga
+banked,консервированный,bankingas
+banker,банкир,bankininkas
+banking,банковское дело,bankininkyste
+banknote,денежная купюра,banknotas
+bankroll,денежные средства,bankrotas
+banner,баннер,reklamjuostė
+bannister,Баннистер,baneris
+banshee,сирена воздушной тревоги,Banshee
+banter,подшучивать,bandelis
+barbecue,барбекю,Barbekiu
+barbed,колючий,spygliuota
+barbell,гантель,štanga
+barber,цирюльник,kirpėjas
+barcode,штрих-код,brūkšninis kodas
+barge,баржа,barža
+bargraph,гистограмма,bargrafas
+barista,бариста,barista
+baritone,баритон,baritonas
+barley,ячмень,miežiai
+barmaid,буфетчица,barmenė
+barman,бармен,barmenas
+barn,сарай,klėtis
+barometer,барометр,barometras
+barrack,барак,barakas
+barracuda,барракуда,barakuda
+barrel,бочка,statinė
+barrette,заколка,barrette
+barricade,баррикада,barikadų
+barrier,барьер,barjeras
+barstool,барный стул,baro kėdė
+bartender,бармен,barmenas
+barterer,осуществляющее обмен лицо,barteris
+bash,удар,bash
+basically,в принципе,iš esmės
+basics,основы,pagrindai
+basil,Бэзил,bazilikas
+basin,бассейн,baseinas
+basis,основа,pagrindas
+basket,корзина,krepšelis
+batboy,batboy,berniukas
+batch,партия,partija
+bath,ванна,vonia
+baton,дубинка,batonas
+bats,летучие мыши,šikšnosparniai
+battalion,батальон,batalionas
+battered,разбитый,mušamas
+battering,долбление,mušimas
+battery,аккумулятор,baterija
+batting,ватин,mušimas
+battle,боевой,mūšis
+bauble,безделушка,baubas
+bazooka,базука,bazuka
+blabber,болтун,plėšikas
+bladder,мочевой пузырь,pūslė
+blade,лопасть,ašmenys
+blah,вздор,blah
+blame,вина,kaltinti
+blaming,обвинять,kaltina
+blanching,бледнеющий,blanšavimas
+blandness,вялость,blaivumas
+blank,пустой,tuščias
+blaspheme,богохульствовать,šventvagystė
+blasphemy,богохульство,šventvagystė
+blast,взрыв,sprogimas
+blatancy,вульгарность,blaivumas
+blatantly,вопиюще,akivaizdžiai
+blazer,блейзер,švarkas
+blazing,полыхающий,deginantis
+bleach,отбеливатель,baliklis
+bleak,мрачный,niūrus
+bleep,бип,pypsėjimas
+blemish,порок,dėmė
+blend,смесь,susimaišyti
+bless,благословить,palaiminti
+blighted,гниль,išblukęs
+blimp,дирижабль,mirktelėjimas
+bling,шику,bling
+blinked,моргнула,mirktelėjo
+blinker,шоры,mirksi
+blinking,моргание,mirksi
+blinks,мигает,mirksi
+blip,изображение на экране радара,aptemdyti
+blissful,блаженный,palaimingas
+blitz,блицкриг,Blitz
+blizzard,метель,pūga
+bloated,раздутый,išsipūtęs
+bloating,вспучивание,pilvo pūtimas
+blob,капля,pūsti
+blog,блог,dienoraštis
+bloomers,шаровары,žydi
+blooming,цветущий,žydi
+blooper,досадная ошибка,blooperis
+blot,пятно,blot
+blouse,блузка,palaidinė
+blubber,выпячивающийся,pūkuotas
+bluff,утес,blefuoti
+bluish,голубоватый,melsva
+blunderer,blunderer,apgavikas
+blunt,тупой,bukas
+blurb,реклама,išpūsti
+blurred,размытый,neryškus
+blurry,размыто,neryškus
+blurt,сболтнуть,pliurpti
+blush,румянец,skaistalai
+blustery,бушующий,pleiskanojimas
+boaster,хвастун,pagyrūnas
+boastful,хвастливый,giriasi
+boasting,хвастовство,giriasi
+boat,лодка,valtis
+bobbed,стриженый,bobutė
+bobbing,флюктуация интенсивности светового пятна на экране радиолокатора,bobulingas
+bobble,качающийся,burbulas
+bobcat,рысь,bobcat
+bobsled,бобслей,bobslėjus
+bobtail,укорачивать,bobtail
+bodacious,Bodacious,bodacious
+body,тело,kūnas
+bogged,затянутый,susipykęs
+boggle,лукавить,susigundyti
+bogus,фиктивный,netikras
+boil,кипятить,virti
+bok,бок,bok
+bolster,поддерживать,stiprinti
+bolt,болт,varžtas
+bonanza,золотое дно,bekonė
+bonded,связанный,surištos
+bonding,склеивание,klijavimas
+bondless,несвязный,beširdžiai
+boned,очищенный от костей,be kaulų
+bonehead,балбес,kaulo galvutė
+boneless,бесхарактерный,be kaulų
+bonelike,bonelike,negailestingas
+boney,Boney,Boney
+bonfire,костер,laužas
+bonnet,капот,variklio dangtis
+bonsai,карликовое дерево,bonsai
+bonus,бонус,premija
+bony,костлявый,kaulingas
+boogeyman,Бугимен,budelis
+boogieman,буги человек,boogieman
+book,книга,knyga
+boondocks,дебри,boondocks
+booted,Booted,įkrovė
+booth,стенд,kabinoje
+bootie,франт,batukas
+booting,загрузка,paleidimas
+bootlace,шнурок для ботинок,batsiuvys
+bootleg,голенище,bagažinė
+boots,ботинки,batai
+boozy,поддатый,bukas
+borax,бура,boraksas
+boring,скучный,nuobodu
+borough,район,miestelis
+borrower,заемщик,skolininkas
+borrowing,заимствование,skolinimasis
+boss,босс,bosas
+botanical,ботанический,botanikos
+botanist,ботаник,botanikas
+botany,ботаника,botanika
+botch,заплата,botas
+both,обе,tiek
+bottle,бутылка,butelis
+bottling,розлив,išpilstymas į butelius
+bottom,низ,dugnas
+bounce,подпрыгивать,atšokti
+bouncing,подпрыгивание,atšokęs
+bouncy,жизнерадостный,atšokęs
+bounding,ограничивающая,ribojantis
+boundless,беспредельный,beribis
+bountiful,обильный,gausus
+bovine,бычий,galvijai
+boxcar,грузовой вагон,furgonas
+boxer,боксер,boksininkas
+boxing,заниматься боксом,bokso
+boxlike,коробчатой,boksinis
+boxy,квадратное,boxy
+breach,нарушение,pažeidimas
+breath,дыхание,kvėpavimas
+breeches,бриджи,kelnaitės
+breeching,казенная часть,brendimas
+breeder,производитель,selekcininkas
+breeding,разведение,veisimas
+breeze,ветер,vėjas
+breezy,свежий,vėsus
+brethren,братия,broliai
+brewery,пивоваренный завод,alaus darykla
+brewing,пивоварение,alaus darymas
+briar,шиповник,briaris
+bribe,взятка,kyšį
+brick,кирпич,plyta
+bride,невеста,nuotaka
+bridged,мостовая,tiltas
+brigade,бригада,brigada
+bright,яркий,ryškus
+brilliant,блестящий,puikus
+brim,край,kraštas
+bring,приносить,atsinešti
+brink,Brink,Brink
+brisket,грудинка,krūtinėlė
+briskly,оживленно,žvaliai
+briskness,юркость,žvalumas
+bristle,щетина,šeriai
+brittle,ломкий,trapus
+broadband,широкополосный,plačiajuosčio ryšio
+broadcast,широковещательный,transliuoti
+broaden,Расширить,praplėsti
+broadly,широко,plačiai
+broadness,грубость,platumas
+broadside,бортовой залп,pakelės
+broadways,вширь,platybėse
+broiler,бройлер,broileris
+broiling,поджаривание,pliaukštelėjimas
+broken,сломаны,sulaužytas
+broker,маклер,brokeris
+bronchial,бронхиальная,bronchų
+bronco,полудикая лошадь,bronco
+bronze,бронза,bronzos
+bronzing,бронзируя,bronzavimas
+brook,ручей,upelis
+broom,метла,šluota
+brought,привел,atnešė
+browbeat,запугивать,kabančios
+brownnose,Коричневый нос,rudagalvė
+browse,просматривать,naršyti
+browsing,просмотр,naršymas
+bruising,кровоподтеки,kraujosruvos
+brunch,поздний завтрак,priešpiečiai
+brunette,брюнетка,brunetė
+brunt,главный удар,žiaurus
+brush,щетка,teptuku
+brussels,Брюссель,Briuselis
+brute,скотина,žiaurus
+brutishly,звероподобно,žiauriai
+bubble,пузырь,burbulas
+bubbling,кипение,burbuliavimas
+bubbly,пузырчатый,burbuliuojantis
+buccaneer,пират,buccaneer
+bucked,воспротивился,bukavo
+bucket,ведро,kibirą
+buckle,пряжка,sagtis
+buckshot,картечь,buckshot
+buckskin,оленья кожа,baksna
+bucktooth,торчащий зуб,sagtis
+buckwheat,гречиха,grikiai
+buddhism,буддизм,budizmas
+buddhist,буддист,budistas
+budding,многообещающий,pumpurai
+buddy,дружище,bičiulis
+budget,бюджет,biudžetas
+buffalo,буйвол,buivolų
+buffed,Полированный,nušveistas
+buffer,буфер,buferis
+buffing,полирование,šlifavimas
+buffoon,шут,bufonas
+buggy,детская коляска,pakvaišęs
+bulb,колба,lemputė
+bulge,выпуклость,išsipūtimas
+bulginess,bulginess,išsipūtimas
+bulgur,булгур,bulgur
+bulk,насыпной,urmu
+bulldog,бульдог,buldogas
+bulldozer,бульдозер,buldozeris
+bullfight,бой быков,jaučių kautynės
+bullfrog,лягушка-бык,bulių varlė
+bullhorn,мегафон,jautis
+bullion,слиток,tauriųjų metalų
+bullish,бычий,bulių
+bullpen,КПЗ,jautis
+bullring,арена,bulių metimas
+bullseye,прямо в точку,Bulio akis
+bullwhip,кнут,chuliganizmas
+bully,хулиган,patyčios
+bunch,гроздь,krūva
+bundle,расслоение,ryšulys
+bungee,банджи,bungė
+bunion,бурсит большого пальца стопы,bunionas
+bunkbed,двухъярусная кровать,dviaukštė
+bunkhouse,общежитие для рабочих,dviaukštis namas
+bunkmate,bunkmate,bunkeris
+bunny,кролик,zuikis
+bunt,пихать,kimba
+busboy,помощник официанта,berniukas
+bush,куст,krūmas
+busily,деловито,judriai
+busload,полный автобус,autobusų apkrova
+bust,бюст,biustas
+busybody,хлопотун,autobusiukas
+buzz,жужжание,gandai
+cabana,кабинка для переодевания,kabana
+cabbage,капуста,kopūstai
+cabbie,извозчик,kabiukas
+cabdriver,таксист,Taksi vairuotojas
+cable,кабель,kabelis
+caboose,камбуз,kaboza
+cache,кэш,talpyklos
+cackle,кудахтать,cackle
+cacti,кактусы,kaktusai
+cactus,кактус,kaktusas
+caddie,чайница,caddy
+caddy,чайница,caddy
+cadet,кадет,kadetas
+cadillac,Кадиллак,kadilakas
+cadmium,кадмий,kadmis
+cage,клетка,narve
+cahoots,Cahoots,košės
+cake,кекс,tortas
+calamari,кальмары,calamari
+calamity,бедствие,nelaimė
+calcium,кальций,kalcio
+calculate,высчитывает,apskaičiuoti
+calculus,исчисление,skaičiavimas
+caliber,калибр,kalibro
+calibrate,калибровать,kalibruoti
+calm,спокойный,Ramus
+caloric,тепловой,kaloringas
+calorie,калория,kalorijų
+calzone,кальцоне,kalzonas
+camcorder,видеокамера,vaizdo kamera
+cameo,камея,kameja
+camera,камера,fotoaparatas
+camisole,камзол,camisole
+camper,отдыхающий,kemperis
+campfire,костер,laužavietė
+camping,кемпинг,kempingas
+campsite,лагерь,stovyklavietė
+campus,кампус,miesteliu
+canal,канал,kanalas
+canary,канарейка,kanarėlė
+cancel,Отмена,atšaukti
+candied,засахаренный,cukruotas
+candle,свеча,žvakė
+candy,конфеты,saldainiai
+cane,трость,cukranendrių
+canine,собачий,šunys
+canister,канистра,kanistras
+cannabis,конопля,kanapių
+canned,консервированный,konservuoti
+canning,консервирование,konservų
+cannon,пушка,patranka
+cannot,не может,negaliu
+canola,канолы,rapsų
+canon,канон,kanonas
+canopener,открывашка,skardinių atidarytuvas
+canopy,навес,baldakimu
+canteen,столовая,valgykla
+canyon,каньон,kanjonas
+capable,способный,pajėgus
+capably,умело,pajėgiai
+capacity,вместимость,talpa
+cape,мыс,kape
+capillary,капиллярный,kapiliaras
+capital,капитал,sostine
+capitol,Капитолий,kapitula
+capped,блокированный,uždengtas
+capricorn,Козерог,Ožiaragis
+capsize,опрокидывание,užmaskuoti
+capsule,капсула,kapsulė
+caption,подпись,antraštė
+captivate,пленять,sužavėti
+captive,пленник,nelaisvėje
+captivity,неволя,nelaisvė
+capture,захватить,gaudyti
+caramel,карамель,karamelė
+carat,карат,karatų
+caravan,караван,karavanas
+carbon,углерод,anglis
+cardboard,картон,kartonas
+carded,кардочесанный,iškaršta
+cardiac,кардиальный,širdies
+cardigan,Кардиган,megztinis
+cardinal,кардинальный,kardinolas
+cardstock,картон,kartonas
+carefully,внимательно,atsargiai
+caregiver,воспитатель,globėjas
+careless,неосторожный,neatsargus
+caress,ласка,glamonėti
+caretaker,смотритель,prižiūrėtojas
+cargo,грузовой,krovinys
+caring,заботливая,rūpestingas
+carless,Carless,carless
+carload,вагонная отправка,krovinys
+carmaker,автопроизводитель,automobilių gamintojas
+carnage,резня,skerdynės
+carnation,гвоздика,gvazdikai
+carnival,карнавал,karnavalas
+carnivore,плотоядное животное,mėsėdis
+carol,Кэрол,karolis
+carpenter,столяр,dailidė
+carpentry,плотничные работы,dailidės
+carpool,совместно пользоваться автомобилем,carpool
+carport,навес,automobilių stovėjimo aikštelė
+carried,осуществляется,nešė
+carrot,морковь,morkos
+carrousel,балаган,karuselė
+carry,нести,nešti
+cartel,картель,kartelė
+cartload,воз,vežimėlis
+carton,коробка,dėžutė
+cartoon,мультфильм,animacinis filmas
+cartridge,картридж,kasetė
+cartwheel,Cartwheel,vežimėlis
+carve,высекает,drožti
+carving,резьба по дереву,drožyba
+carwash,автомойка,automobilių plovykla
+cascade,каскад,kaskados
+case,дело,atvejis
+cash,денежные средства,grynaisiais
+casing,кожух,korpusas
+casino,казино,kazino
+casket,шкатулка,karstas
+cassette,кассета,kasetė
+casually,вскользь,Kasdieniškai
+casualty,несчастный случай,žuvusysis
+catacomb,катакомба,katakombas
+catalog,каталог,katalogas
+catalyst,катализатор,katalizatorius
+catalyze,катализируют,katalizuoti
+catapult,катапульта,katapulta
+cataract,катаракта,katarakta
+catatonic,кататонический,katatoninis
+catcall,освистывать,katžolė
+catchable,catchable,sugaunamas
+catcher,ловец,gaudytojas
+catching,привлекательный,gaudyti
+catchy,заковыристый,intriguojantis
+caterer,поставщик,maitinimo įstaiga
+catering,общественное питание,maitinimas
+catfight,кетфайт,kačių kovos
+catfish,сом,šamas
+cathedral,собор,katedra
+cathouse,бордель,kačių namelis
+catlike,кошачий,katiniškas
+catnap,подремать,užkampis
+catnip,котовник кошачий,katžolė
+catsup,кетчуп,catupas
+cattail,рогоз,cattail
+cattishly,cattishly,droviai
+cattle,крупный рогатый скот,galvijai
+catty,злобный,katiniškas
+catwalk,подиум,užkampis
+caucasian,кавказец,kaukazo
+caucus,партийное собрание,kaukas
+causal,причинный,priežastinis
+causation,причинная связь,priežastinis ryšys
+cause,причина,sukelti
+causing,вызывая,sukeliantis
+cauterize,прижечь,cauterize
+caution,осторожность,atsargiai
+cautious,осторожный,atsargus
+cavalier,кавалер,kavalerija
+cavalry,кавалерия,kavalerija
+caviar,икра,ikrai
+cavity,полость,ertmė
+cedar,кедр,kedras
+celery,сельдерей,salierai
+celestial,астрономический,dangaus
+celibacy,целибат,celibatas
+celibate,холостяк,celibatas
+celtic,кельтский,keltų
+cement,цемент,cementas
+census,перепись,surašymas
+ceramics,керамика,keramika
+ceremony,церемония,ceremonija
+certainly,конечно,be abejo
+certainty,определенность,tikrumas
+certified,проверенный,sertifikuota
+certify,удостоверяет,patvirtinti
+cesarean,кесарево сечение,cezario
+cesspool,выгребная яма,cesspool
+chafe,Chafe,skraistė
+chaffing,опевальные,pleiskanojimas
+chain,цепь,grandine
+chair,стул,kėdė
+chalice,чаша,kreida
+challenge,вызов,iššūkis
+chamber,камера,kamera
+chamomile,ромашка,ramunėlių
+champion,чемпион,čempionas
+chance,шанс,galimybė
+change,менять,pasikeisti
+channel,канал,kanalą
+chant,песнопение,giedoti
+chaos,хаос,chaosas
+chaperone,сопровождать,chaperone
+chaplain,капеллан,kapelionas
+chapped,потрескавшиеся,susmulkintas
+chaps,братва,čipsai
+chapter,глава,skyrius
+character,характер,charakteris
+charbroil,charbroil,charbroil
+charcoal,уголь,anglis
+charger,зарядное устройство,įkroviklis
+charging,зарядка,įkrovimas
+chariot,колесница,vežimas
+charity,благотворительная деятельность,labdara
+charm,очарование,žavesys
+charred,обугленный,apdulkinta
+charter,чартер,užsakomųjų
+charting,картирование,diagramų sudarymas
+chase,гнаться,Vytis
+chasing,чеканка,vejasi
+chaste,целомудренный,nuoširdus
+chastise,Chastise,sielvartauti
+chastity,целомудрие,skaistumas
+chatroom,Chatroom,pokalbių svetainė
+chatter,болтовня,plepėjimas
+chatting,в чате,kalbasi
+chatty,болтливый,pašnekesys
+cheating,мошенничество,Sukčiavimas
+cheddar,чеддер,čederis
+cheek,щека,skruostas
+cheer,ура,nudžiuginti
+cheese,сыр,sūris
+cheesy,сырный,sūrus
+chef,шеф-повар,virėja
+chemicals,химикалии,chemikalai
+chemist,химик,chemikas
+chemo,химио,chemoterapija
+cherisher,Хранитель,vyšnia
+cherub,херувим,kerubas
+chess,шахматы,Šachmatai
+chest,грудь,krūtinė
+chevron,шеврон,ševronas
+chevy,гнаться,chevy
+chewable,жевательная,kramtomas
+chewer,Chewer,kramtyti
+chewing,жевание,kramtyti
+chewy,жевательные,kramtytas
+chief,главный,vyriausiasis
+chihuahua,чихуахуа,čihuahua
+childcare,уход за детьми,vaikų priežiūra
+childhood,детство,vaikystė
+childish,детский,vaikiška
+childless,бездетный,bevaikis
+childlike,детский,vaikiškas
+chili,чили,čili
+chill,простуда,atšaldyti
+chimp,шимпанзе,šimpanzė
+chip,чип,lustas
+chirping,стрекотание,čirškimas
+chirpy,чирикать,čirškiantis
+chitchat,болтовня,trumpas pašnekesys, papliurpimas
+chivalry,рыцарство,riteriškumas
+chive,луковичка,laiškinis česnakas
+chloride,хлористый,chloridas
+chlorine,хлор,chloras
+choice,выбор,pasirinkimas
+chokehold,Chokehold,užspringimas
+choking,задыхаясь,užspringimas
+chomp,чавкать,chompas
+chooser,тот, кто выбирает,parinkėjas
+choosing,выбор,pasirenkant
+choosy,привередливый,pasirenkamas
+chop,измельчить,kapoti
+chosen,Избранный,pasirinktas
+chowder,густая похлебка,košelė
+chowtime,chowtime,chowtime
+chrome,хром,chromas
+chubby,круглолицый,išsipūtęs
+chuck,зажимной патрон,chuckas
+chug,пыхтение,čiupk
+chummy,дружище,chummy
+chump,башка,kapojimas
+chunk,ломоть,riekė
+churn,маслобойка,virpėjimas
+chute,скат,kanalas
+cider,сидр,sidras
+cilantro,кинза,kalendra
+cinch,подпруга,cinku
+cinema,кино,kinas
+cinnamon,корица,cinamono
+circle,круг,apskritimas
+circling,кружение,ratu
+circular,круговой,apskrito
+circulate,циркулируют,cirkuliuoti
+circus,цирк,cirkas
+citable,citable,cituojamas
+citadel,цитадель,citadelė
+citation,цитата,citata
+citizen,гражданин,pilietis
+citric,лимонный,citrinos
+citrus,цитрусовые,citrusiniai
+city,город,miestas
+civic,гражданский,pilietinis
+civil,гражданского,civilinis
+clad,плакированный,plakiruoti
+claim,Запрос,reikalauti
+clambake,clambake,klumpa
+clammy,липкий,klizma
+clamor,ропот,klastingumas
+clamp,зажим,spaustukas
+clamshell,грейферный,moliuskas
+clang,лязг,klanas
+clanking,бряцание,kliautis
+clapped,хлопали,apglėbė
+clapper,трещотка,klaipėdietis
+clapping,хлопающий,plojimai
+clarify,прояснить,patikslinti
+clarinet,кларнет,klarnetas
+clarity,ясность,aiškumas
+clash,конфликтовать,susidūrimas
+clasp,застежка,užsegimas
+class,учебный класс,klasė
+clatter,трескотня,klastos
+clause,пункт,išlyga
+clavicle,ключица,raktikaulis
+claw,коготь,letena
+clay,глина,molis
+clean,чистый,švarus
+clear,Чисто,aišku
+cleat,шпунт,valkata
+cleaver,дровокол,skustuvas
+cleft,расщелина,plyšys
+clench,сжались,prispausti
+clergyman,священник,dvasininkas
+clerical,конторский,kanceliarinis
+clerk,клерк,tarnautojas
+clever,умная,protingas
+clicker,зазывала,klikeris
+client,клиент,klientas
+climate,климат,klimatas
+climatic,климатический,klimato
+cling,цепляться,prikibti
+clinic,клиника,klinika
+clinking,звенящий,klimpsta
+clip,клип,klipas
+clique,клика,klišė
+cloak,плащ,apsiaustas
+clobber,колошматить,klumpis
+clock,Часы,laikrodis
+clone,клон,klonas
+cloning,клонирование,klonavimas
+closable,закрываемой,uždaromas
+closure,закрытие,uždarymas
+clothes,одежда,drabužiai
+clothing,одежда,apranga
+cloud,облако,debesis
+clover,клевер,dobilai
+clubbed,утолщенный на одном конце,klubinė lova
+clubbing,клубная,klubas
+clubhouse,здание клуба,klubo namas
+clump,глыба,gumulėlis
+clumsily,неумело,garbingai
+clumsy,топорный,gremėzdiškas
+clunky,неуклюжим,nerangus
+clustered,кластерный,susikaupę
+clutch,сцепление,sankaba
+clutter,беспорядок,netvarka
+coach,тренер,treneris
+coagulant,коагулянт,koaguliantas
+coastal,береговой,pakrančių
+coaster,каботажное судно,padėkliukai
+coasting,выбега,pakrante
+coastland,приморье,pakrantės
+coastline,береговая линия,kranto linija
+coat,Пальто,kailis
+coauthor,соавтор,bendraautoris
+cobalt,кобальт,kobaltas
+cobbler,сапожник,voratinklis
+cobweb,паутина,voratinklis
+cocoa,какао,kakavos
+coconut,кокос,kokosų
+cod,треска,menkė
+coeditor,соредактор,bendradarbis
+coerce,принуждать,prievarta
+coexist,сосуществует,sugyventi
+coffee,кофе,kavos
+cofounder,соучредитель,cofounder
+cognition,познание,pažinimas
+cognitive,познавательный,pažintinis
+cogwheel,зубчатое колесо,krumpliaratis
+coherence,согласованность,darna
+coherent,последовательный,darnus
+cohesive,сплоченной,darni
+coil,катушка,ritė
+coke,кокс,koksas
+cola,кола,kolos
+cold,холодный,šalta
+coleslaw,капустный салат,koleslovas
+coliseum,Колизей,koliziejus
+collage,коллаж,koliažas
+collapse,коллапс,žlugimas
+collar,воротник,apykaklė
+collected,собранный,surinkti
+collector,коллектор,kolekcininkas
+collide,Collide,susidurti
+collie,колли,koljė
+collision,столкновение,susidūrimas
+colonial,колониальный,kolonijinis
+colonist,колонист,kolonistas
+colonize,Колонизируйте,kolonizuoti
+colony,колония,kolonija
+colossal,колоссальный,kolosalus
+colt,жеребенок,koltas
+coma,кома,koma
+come,приходить,ateiti
+comfort,комфорт,komfortas
+comfy,удобный,patogus
+comic,комический,komiksas
+coming,приход,ateina
+comma,запятая,kablelis
+commence,Начинайте,pradėti
+commend,Commend,pagirti
+comment,комментарий,komentuoti
+commerce,коммерция,komercija
+commode,комод,komoda
+commodity,товар,prekė
+commodore,коммодор,komodoras
+common,общий,dažnas
+commotion,заваруха,sąmokslas
+commute,ездить,važiuoti į darbą ir atgal
+commuting,коммутирующих,važinėja į darbą ir atgal
+compacted,уплотненный,sutankintas
+compacter,компактнее,sutankintojas
+compactly,компактно,kompaktiškai
+compactor,уплотнитель,kompaktorius
+companion,компаньон,kompanionas
+company,Компания,bendrovė
+compare,сравнить,palyginti
+compel,Компел,priversti
+compile,компиляции,sudaryti
+comply,соблюдать,laikytis
+component,составная часть,komponentas
+composed,состоящий,sudarė
+composer,композитор,kompozitorius
+composite,композитный,sudėtinis
+compost,компост,kompostas
+composure,хладнокровие,kompresas
+compound,соединение,junginys
+compress,компресс,suspausti
+comprised,состоит,susideda
+computer,компьютер,kompiuteris
+computing,вычисления,skaičiavimas
+comrade,товарищ,bendražygis
+concave,вогнутый,įgaubtas
+conceal,таить,nuslėpti
+conceded,признал,sutiko
+concept,концепция,koncepcija
+concerned,обеспокоен,susirūpinęs
+concert,концерт,koncertas
+conch,раковина,gurkšnis
+concierge,консьерж,durininkas
+concise,краткий,glaustas
+conclude,заключать,sudaryti
+concrete,бетон,betonas
+concur,СОГЛАСУЕМОСТЬ,sutikti
+condense,конденсироваться,kondensuotis
+condiment,приправа,pagardas
+condition,условие,sąlyga
+condone,освобождать от ответственности,prisipažinti
+conducive,способствующий,palankus
+conductor,проводник,dirigentas
+conduit,трубопровод,vamzdynas
+cone,конус,kūgis
+confess,исповедывать,prisipažink
+confetti,конфетти,konfeti
+confidant,доверенное лицо,patikimas
+confident,уверенный,įsitikinęs
+confider,confider,pasitikėtojas
+confiding,доверчивый,pasitikintis
+configure,настроить,konfigūruoti
+confined,ограниченный,uždara
+confining,ограничительный,ribojantis
+confirm,подтверждения,patvirtinti
+conflict,конфликт,konfliktas
+conform,соответствовать,atitikti
+confound,вмешивающийся фактор,sumišęs
+confront,конфронт,konfrontuoti
+confused,смущенный,sumišęs
+confusing,путая,paini
+confusion,путаница,sumišimas
+congenial,конгениальный,įgimtas
+congested,перегруженным,perpildytos
+congrats,Поздравляю,Sveikinimai
+congress,конгресс,suvažiavimas
+conical,конический,kūginis
+conjoined,соединенный,sujungtas
+conjure,заклинаю,sugalvoti
+conjuror,фокусник,conjuror
+connected,связано,sujungtas
+connector,соединитель,jungtis
+consensus,консенсус,sutarimas
+consent,согласие,sutikimas
+console,приставка,konsolė
+consoling,утешающий,paguoda
+consonant,согласный звук,priebalsis
+constable,констебль,konsulatas
+constant,постоянная,pastovus
+constrain,Ограничить,suvaržyti
+constrict,Constrict,sutraukti
+construct,конструкт,statyti
+consult,советоваться,konsultuotis
+consumer,потребитель,vartotojas
+consuming,потребляющий,vartoja
+contact,контакт,kontaktas
+container,контейнер,konteineris
+contempt,презрение,panieka
+contend,бороться,ginčytis
+contented,удовлетворенный,patenkintas
+contently,contently,turiningai
+contents,содержание,turinys
+contest,конкурс,konkursas
+context,контекст,kontekstas
+contort,искажать,kontoros
+contour,контур,kontūras
+contrite,кающийся,apgailėtinas
+control,контроль,kontrolė
+contusion,контузия,sumušimas
+convene,созывать,sušaukti
+convent,монастырь,vienuolynas
+copartner,член товарищества,bendradarbis
+cope,справиться,susitvarkyti
+copied,скопированный,nukopijuota
+copier,копировальное устройство,kopijuoklis
+copilot,штурман,kopilotas
+coping,справляясь,susidoroti
+copious,обильный,gausus
+copper,медь,varis
+copy,копия,kopija
+coral,коралловый,koralas
+cork,пробка,kamštiena
+cornball,cornball,kukurūzų kamuolys
+cornbread,Cornbread,kukurūzų duona
+corncob,стержень кукурузного початка,kukurūzų burbuolės
+cornea,роговица,ragena
+corned,соленый,raguotas
+corner,угол,kampas
+cornfield,нива,kukurūzų laukas
+cornflake,Cornflake,kukurūzų dribsniai
+cornhusk,обертка початка кукурузы,kukurūzų ankštis
+cornmeal,овсяная мук`а,kukurūzų miltai
+cornstalk,дылда,kukurūzų košė
+corny,шероховатый,korniškas
+coronary,коронарный,vainikinis
+coroner,коронер,koroneris
+corporal,телесный,kūniškas
+corporate,корпоративный,korporacinis
+corral,загон для скота,korinis
+correct,верный,teisinga
+corridor,коридор,koridorius
+corrode,ржаветь,korozija
+corroding,разъедающий,korozija
+corrosive,коррозионный,ėsdinantis
+corsage,корсаж,korsažas
+corset,корсет,korsetas
+cortex,кора головного мозга,žievė
+cosigner,поручителя,cosigner
+cosmetics,косметические средства,kosmetika
+cosmic,космический,kosminė
+cosmos,космос,kosmosas
+cosponsor,коспонсор,rėmėjas
+cost,Стоимость,kaina
+cottage,коттедж,kotedžas
+cotton,хлопок,medvilnė
+couch,диван,sofos
+cough,кашель,kosulys
+could,мог,galėtų
+countable,счетное,suskaičiuoti
+countdown,обратный отсчет,atgalinis skaičiavimas
+counting,подсчет,skaičiavimas
+countless,бесчисленный,nesuskaičiuojama
+country,страна,Šalis
+county,округ,apskritis
+courier,курьер,kurjeriu
+covenant,завет,Sandorą
+cover,обложка,dangtis
+coveted,желанной,geidžiama
+coveting,зависти,troškimas
+coyness,скромность,jaukumas
+cozily,уютно,jaukiai
+coziness,уют,jaukumas
+cozy,уютный,jaukus
+crabbing,рыскание,krabinanti
+crabgrass,росичка,krabų žolė
+crablike,crablike,krabiškas
+crabmeat,крабовое мясо,krabų mėsa
+cradle,колыбель,lopšys
+cradling,кружало,lopšys
+crafter,крафтером,krateris
+craftily,хитро,klastingai
+craftsman,ремесленник,amatininkas
+craftwork,ремесленного,rankdarbiai
+crafty,коварный,klastingas
+cramp,судорога,mėšlungis
+cranberry,клюква,spanguolė
+crane,кран,kranas
+cranial,черепной,kaukolinis
+cranium,череп,kaukolė
+crank,кривошип,švaistiklis
+crate,клеть,dėžė
+crave,Тяжкое,trokšti
+craving,страстное желание,troškimas
+crawfish,речной рак,vėžiai
+crawlers,ползунки,vikšrų
+crawling,ползком,nuskaitymas
+crayfish,рак,vėžiai
+crayon,пастель,vėžys
+crazed,сумасшедший,pašėlęs
+crazily,бешено,beprotiškai
+craziness,сумасшествие,pamišimas
+crazy,псих,išprotėjęs
+creamed,сливках,kremuotas
+creamer,сливки,kremas
+creamlike,creamlike,kreminis
+crease,складка,raukšlėtis
+creasing,биговки,raukšlėtis
+creatable,creatable,kuriamas
+create,Создайте,sukurti
+creation,создание,kūrimas
+creative,творческий,kūrybingi
+creature,существо,padaras
+credible,заслуживающий доверия,patikima
+credibly,авторитетно,patikimai
+credit,кредит,kreditas
+creed,вероучение,įsitikinimai
+creme,кремовый,kremas
+creole,креольский,kreolis
+crepe,креп,krepas
+crept,подкрался,kreptelėjo
+crescent,полумесяц,pusmėnulis
+crested,хохлатый,suimtas
+cresting,перехлест,kretingos
+crestless,crestless,be kranto
+crevice,расщелина,plyšys
+crewless,без экипажа,be ekipažo
+crewman,член команды,įgulos narys
+crewmate,crewmate,įgulos draugas
+crib,детская кроватка,lovelė
+cricket,крикет,Kriketas
+cried,плакала,verkė
+crier,глашатай,griežtesnis
+crimp,гофрировать,gofruoti
+crimson,малиновый цвет,raudonas
+cringe,пресмыкаться,šliaužti
+cringing,низкопоклонство,verksmas
+crinkle,завивать,raukšlėtis
+crinkly,морщинистый,traškiai
+crisped,хрустящей,traškėjo
+crisping,хрустящих,traškantis
+crisply,твердо,traškiai
+crispness,ломкость,traškumas
+crispy,хрустящие,traškus
+criteria,критерии,kriterijai
+critter,зверушка,kritikas
+croak,квакать,kreivas
+crock,черепок,kruta
+crook,плут,kreivas
+croon,напевать,kronas
+crop,культура,pasėlis
+cross,пересекать,kirsti
+crouch,пресмыкаться,kreivai
+crouton,гренок для супа,kruopos
+crowbar,лом,laužtuvas
+crowd,толпа,minios
+crown,корона,karūna
+crucial,ключевой,esminis
+crudely,грубо,grubiai
+crudeness,грубость,šiurkštumas
+cruelly,жестоко,žiauriai
+cruelness,жестокости с диктатом,žiaurumas
+cruelty,жестокость,žiaurumas
+crumb,крошка,trupiniai
+crummiest,crummiest,traškiausias
+crummy,пухленький,trupiniai
+crumpet,пышка,trupinys
+crumpled,мятый,sutraiškytas
+cruncher,Кранчер,krapštukas
+crunching,хруст,gniuždant
+crunchy,хрустящий,traškus
+crusader,крестоносец,kryžiuočių
+crushable,дробимые,sutraiškomas
+crushed,раздавленный,susmulkintas
+crusher,дробилка,trupintuvas
+crushing,дробление,sutraiškymas
+crust,кора,pluta
+crux,суть,kruša
+crying,плач,verksmas
+cryptic,скрытый,kriptos
+crystal,кристалл,kristalas
+cubbyhole,CubbyHole,kubinių kiaurymių
+cube,куб,kubas
+cubical,кубический,kubinis
+cubicle,кабинка,kabina
+cucumber,огурец,agurkas
+cuddle,прижиматься,prisiglausti
+cuddly,отрадный,drąsiai
+cufflink,запонка,rankogalių sąsaga
+culinary,кулинарный,kulinarija
+culminate,Кульминацией,kulminacija
+culpable,виновный,kaltas
+culprit,преступник,kaltininkas
+cultivate,культивировать,auginti
+cultural,культурный,kultūrinis
+culture,культура,kultūrą
+cupbearer,виночерпий,taurelė
+cupcake,кекс,keksiukas
+cupid,Амур,kupidonas
+cupped,чашевидный,taurė
+cupping,применение банок,taurė
+curable,излечим,išgydoma
+curator,куратор,kuratorius
+curdle,Кэрдль,kreivai
+cure,лечение,išgydyti
+curfew,комендантский час,komendanto valanda
+curing,лечение,kietėjimas
+curled,курчавый,susiraukšlėjęs
+curler,бигуди,suktukas
+curliness,кудрявость,garbanos
+curling,вьющийся,garbanojimas
+curly,кудрявый,garbanotas
+curry,карри,karis
+curse,проклинать,prakeikimas
+cursive,скоропись,keiksmažodis
+cursor,курсор,žymeklis
+curtain,занавес,uždanga
+curtly,отрывисто,atvirai
+curtsy,реверанс,keiksmažodis
+curvature,кривизна,kreivumas
+curve,кривая,kreivė
+curvy,соблазнительная,kreivi
+cushy,легкий,švelnus
+cusp,острый выступ,gaubtas
+cussed,упрямый,susigūžęs
+custard,заварной крем,varškė
+custodian,попечитель,saugotojas
+custody,под стражей,globa
+customary,обычный,įprasta
+customer,клиент,klientas
+customize,подгоняет,pritaikyti
+customs,таможня,papročiai
+cut,резать,supjaustyti
+cycle,цикл,ciklas
+cyclic,циклический,ciklinis
+cycling,кататься на велосипеде,dviračiu Sportas
+cyclist,велосипедист,dviratininkas
+cylinder,цилиндр,cilindras
+cymbal,кимвал,cimbolas
+cytoplasm,цитоплазма,citoplazma
+cytoplast,цитопласт,citoplastas
+dab,мазок,dab
+dad,папа,tėtis
+daffodil,бледно-желтый,narcizas
+dagger,кинжал,durklas
+daily,повседневная,kasdien
+daintily,изысканно,daniškai
+dainty,лакомство,skanus
+dairy,молочный,pieninė
+daisy,маргаритка,ramunė
+dallying,dallying,dalijimasis
+dance,танец,šokis
+dancing,танцы,šokti
+dandelion,одуванчик,kiaulpienė
+dander,перхоть,pleiskanos
+dandruff,перхоть,pleiskanos
+dandy,денди,dandy
+danger,Опасность,pavojus
+dangle,мотаться,kabinti
+dangling,свисающий,kabančios
+daredevil,смельчак,drąsuolis
+dares,смеет,išdrįsta
+daringly,дерзновенно,drąsiai
+darkened,затемненный,patamsėjęs
+darkening,потемнение,patamsėjimas
+darkish,темноватый,tamsus
+darkness,темнота,tamsa
+darkroom,темная комната,tamsus kambarys
+darling,дорогой,mielasis
+darn,штопать,darnas
+dart,дротик,lėkti
+darwinism,дарвинизм,darvinizmas
+dash,тире,brūkšnys
+dastardly,подлый,nedrąsiai
+data,данные,duomenys
+datebook,ежедневника,datų knyga
+dating,знакомства,pasimatymai
+daughter,дочь,dukra
+daunting,пугающим,bauginantis
+dawdler,лодырь,anūkėlis
+dawn,рассвет,aušra
+daybed,кушетка,dieninis
+daybreak,рассвет,sutemos
+daycare,дневной уход,dienos priežiūros
+daydream,грезы,svajonė
+daylight,дневной свет,dienos šviesos
+daylong,весь день,visą dieną
+dayroom,комната отдыха,dienos kambarys
+daytime,дневное время,dienos metu
+dazzler,Dazzler,apakinti
+dazzling,ослепительный,apakinti
+deacon,дьякон,diakonas
+deafening,оглушительный,kurtinantis
+deafness,глухота,kurtumas
+dealer,дилер,prekiautojas
+dealing,дилинг,sprendžiant
+dealmaker,делец,prekybininkas
+dealt,дело,nagrinėjo
+dean,декан,dekanas
+debatable,дискуссионный,diskutuotinas
+debate,обсуждение,diskusijos
+debating,дискуссионный,diskusijos
+debit,списание средств,debeto
+debrief,опрашивать о выполнении задания,apklausa
+debtless,debtless,be skolų
+debtor,должник,skolininkas
+debug,отлаживать,derinimo
+debunk,развенчивать,demaskuoti
+decade,десятилетие,dešimtmetis
+decaf,без кофеина,kofeinas
+decal,декаль,lipdukas
+decathlon,десятиборье,dešimtokai
+decay,распад,skilimas
+deceased,умерший,miręs
+deceit,обман,apgaulė
+deceiver,обманщик,apgavikas
+deceiving,обман,apgauti
+december,Декабрь,gruodį
+decency,порядочность,padorumas
+decent,порядочный,padorus
+deception,обман,apgaulė
+deceptive,обманчивый,apgaulinga
+decibel,децибел,decibelų
+decidable,разрешима,nuspręsta
+decimal,десятичная дробь,skaitmenų po kablelio
+decimeter,дециметр,decimetrą
+decipher,дешифратор,iššifruoti
+deck,колода,denis
+declared,объявленный,paskelbta
+decline,снижение,nuosmukis
+decode,раскодировать,iššifruoti
+decompose,разобранное,suyra
+decorated,украшен,papuoštas
+decorator,декоратор,dekoratorius
+decoy,манок,jaukas
+decrease,снижение,mažinti
+decree,постановление,nutarimas
+dedicate,посвящать,paskirti
+dedicator,посвящающий,pasišventėjas
+deduce,Выведите,išvesti
+deduct,вычесть,atskaityti
+deed,дело,veika
+deem,Дим,manyti
+deepen,углублять,pagilinti
+deeply,глубоко,giliai
+deepness,глубина,gilumas
+deface,Deface,išniekinti
+defacing,порча,išsiblaškęs
+defame,Клевета,šmeižti
+default,дефолт,numatytas
+defeat,поражение,nugalėti
+defection,отступничество,defektas
+defective,дефектный,defektinis
+defendant,ответчик,atsakovas
+defender,защитник,gynėjas
+defense,защита,gynyba
+defensive,оборонительный,gynybinis
+deferral,отсрочка,atidėjimas
+deferred,отложенный,atidėtas
+defiance,неповиновение,niekinimas
+defiant,дерзкий,nepaklusnus
+defile,дефиле,nurimti
+defiling,осквернении,suteršti
+define,определять,apibrėžti
+definite,определенный,aiškus
+deflate,выкачивает,defliacija
+deflation,дефляция,defliacija
+deflator,дефлятор,defliatorius
+deflected,отклоненный,nukreiptas
+deflector,дефлектор,deflektorius
+defog,предотвращение запотевания,defog
+deforest,обезлесить,miškai
+defraud,обижай,apgauti
+defrost,размораживать,atitirpinimas
+deftly,проворно,nepadoriai
+defuse,разрядить,atitraukti
+defy,Defy,nepaklusti
+degraded,деградировавший,degradavęs
+degrading,унижающие,žeminantis
+degrease,обезжирить,nuriebalinti
+degree,степень,laipsnis
+dehydrate,дигидрат,dehidratuoti
+deity,божество,dievybė
+dejected,удрученный,atmesta
+delay,задержка,delsimas
+delegate,делегат,deleguoti
+delegator,доверитель,delegatas
+delete,Удалить,Ištrinti
+deletion,удаление,ištrynimas
+delicacy,лакомство,švelnumas
+delicate,нежный,subtilus
+delicious,вкусные,skanus
+delighted,Обрадованный,sužavėtas
+delirious,бредовый,mielas
+delirium,бред,delyras
+deliverer,избавитель,pristatytojas
+delivery,Доставка,pristatymas
+delouse,разминировать,delouse
+delta,дельта,delta
+deluge,потоп,sklandymas
+delusion,наваждение,kliedesys
+deluxe,роскошный,liukso
+demanding,требовательный,reiklus
+demeaning,унизительно,žeminantis
+demeanor,поведение,elgesys
+demise,кончина,nuosmukis
+democracy,демократия,demokratija
+democrat,демократ,demokratas
+demote,Понизить,žeminti
+demotion,понижение в должности,žeminimas
+demystify,Прояснение,demistifikuoti
+denatured,денатурированный,denatūruotas
+deniable,спорный,denable
+denial,отказ,neigimas
+denim,джинсовая ткань,džinsinis audinys
+denote,обозначают,žymi
+dense,плотный,tankus
+density,плотность,tankis
+dental,зубоврачебный,dantų
+dentist,Дантист,odontologas
+denture,зубной протез,protezas
+deny,Отрицать,paneigti
+deodorant,дезодорант,dezodorantas
+deodorize,дезодорировать,dezodoruoti
+departed,отбыли,išvyko
+departure,выезд,išvykimas
+depict,изображают,vaizduoti
+deplete,разрушающим,išeikvoti
+depletion,истощение,išeikvojimas
+deplored,выразил сожаление по поводу,apgailestavo
+deploy,развернуть,dislokuoti
+deport,депортировать,deportuoti
+depose,Depose,atiduoti
+depraved,развращенный,nuskurdęs
+depravity,развращенность,depravity
+deprecate,протестовать,nusidėvėti
+depress,отжимает,depresija
+deprive,лишай,atimti
+depth,глубина,gylis
+deputize,замещать,pavaduotojas
+deputy,заместитель,pavaduotojas
+derail,пускать под откос,bėgių nuvažiavimas
+deranged,ненормальный,atitrūkęs
+derby,дерби,derbis
+derived,полученный,išvestinis
+desecrate,осквернять,išniekinti
+deserve,заслуживать,nusipelniusi
+deserving,заслуживающий,nusipelnęs
+designate,назначенный,paskirti
+designed,предназначенный,suprojektuota
+designer,дизайнер,dizaineris
+designing,проектирование,projektavimas
+deskbound,deskbound,stalviršis
+desktop,рабочий стол,darbalaukis
+deskwork,канцелярская работа,stalo darbas
+desolate,заброшенный,apleistas
+despair,отчаяние,neviltis
+despise,презирать,niekinti
+despite,несмотря,nepaisant
+destiny,судьба,likimas
+destitute,нуждающийся,vargstantis
+destruct,разрушать,sunaikinti
+detached,отдельный,atskirtas
+detail,подробно,detalė
+detection,обнаружение,aptikimas
+detective,детектив,detektyvas
+detector,детектор,detektorius
+detention,содержание под стражей,sulaikymas
+detergent,моющее средство,ploviklis
+detest,ненавидеть,niekinti
+detonate,детонирующие,detonuoti
+detonator,детонатор,detonatorius
+detoxify,токсинов,detoksikuoti
+detract,отбавляй,menkinti
+deuce,двойка,deuce
+devalue,девальвировать,devalvacija
+deviancy,девиаций,deviancija
+deviant,отклоняющееся,deviantinis
+deviate,отклоняться,nukrypti
+deviation,отклонение,nuokrypis
+deviator,девиатор,nukrypėjas
+device,устройство,prietaisas
+devious,окольный,apgaulingas
+devotedly,преданно,atsidavusiai
+devotee,приверженец,atsidavęs
+devotion,преданность,atsidavimas
+devourer,пожиратель,valgytojas
+devouring,пожирание,ėdantis
+devoutly,набожно,pamaldžiai
+dexterity,ловкость,miklumas
+dexterous,ловкий,gudrus
+diabetes,диабет,diabetas
+diabetic,диабетический,diabetas
+diabolic,дьявольский,velniškas
+diagnoses,диагнозы,diagnozes
+diagnosis,диагностика,diagnozė
+diagram,диаграмма,schema
+dial,набирать номер,rinkimas
+diameter,диаметр,skersmens
+diaper,подгузник,sauskelnės
+diaphragm,диафрагма,diafragma
+diary,дневник,dienoraštis
+dice,игральная кость,kauliukai
+dicing,перетасовки,supjaustyti kubeliais
+dictate,диктат,diktuoti
+dictation,диктант,diktantas
+dictator,диктатор,diktatorius
+difficult,сложно,sunku
+diffused,диффузный,pasklidęs
+diffuser,диффузор,difuzorius
+diffusion,диффузия,difuzija
+diffusive,диффузионный,difuzinis
+dig,копать,kasti
+dilation,расширение,išsiplėtimas
+diligence,старательность,darbštumas
+diligent,прилежный,darbštus
+dill,укроп,krapai
+dilute,разбавленный,praskiesti
+dime,дайм,bulvarinis
+diminish,уменьшаются,mažėti
+dimly,тускло,niūrus
+dimmed,серый цвет,pritemdytas
+dimmer,диммер,dimeris
+dimness,тусклость,tamsumas
+dimple,ямочка,bukas
+diner,обедающий,valgytojas
+dingbat,дингбат,dingbat
+dinghy,шлюпка,girtas
+dinginess,пропыленность,mieguistumas
+dingo,динго,dingo
+dingy,грязноватый,purvinas
+dining,обеденный,pietauti
+dinner,обед,vakarienė
+diocese,епархия,vyskupija
+dioxide,диоксид,dioksidas
+diploma,диплом,diplomas
+dipped,погружали,paniręs
+dipper,черпак,dipperis
+dipping,окунание,panirimas
+directed,Направленное,nukreiptas
+direction,направление,kryptis
+directive,директива,direktyva
+directly,непосредственно,tiesiogiai
+directory,каталог,katalogą
+direness,direness,direness
+dirtiness,неопрятность,nešvarumas
+disabled,отключен,neįgalus
+disagree,не соглашаться,nesutikti
+disallow,Disallow,neleisti
+disarm,снятие с охраны,nuginkluoti
+disarray,беспорядок,nesutarimas
+disaster,катастрофа,nelaimė
+disband,разгон,išformuoti
+disbelief,неверие,netikėjimas
+disburse,проплачивать,išmokėti
+discard,отбрасывать,išmeskite
+discern,DISCERN,išsiaiškinti
+discharge,разряд,iškrova
+disclose,раскрывать,atskleisti
+discolor,обесцветить,spalvos pasikeitimas
+discount,скидка,nuolaida
+discourse,речь,diskursas
+discover,обнаружить,atrasti
+discuss,обсуждать,aptarti
+disdain,презирать,panieka
+disengage,Отрыв,atsijungti
+disfigure,изуродовать,nusiminti
+disgrace,бесчестие,gėda
+dish,блюдо,patiekalas
+disinfect,дезинфицировать,dezinfekuoti
+disjoin,разобщать,atsiriboti
+disk,диск,diskas
+dislike,нелюбовь,nemėgti
+disliking,антипатия,nemėgsta
+dislocate,надломить,išnarplioti
+dislodge,вытеснять,išsikraustyti
+disloyal,нелояльный,neištikimas
+dismantle,разбирает,išardyti
+dismay,испуг,apmaudu
+dismiss,отклонять,atleisti
+dismount,спешиться,nusileisti
+disobey,слушается,nepaklusti
+disorder,расстройство,sutrikimas
+disown,отрекаться,atsisakyti
+disparate,несоизмеримый,skirtis
+disparity,несоответствие,nelygybė
+dispatch,отправка,išsiuntimas
+dispense,дозирования,išpilti
+dispersal,рассредоточение,sklaida
+dispersed,рассеянный,išsisklaidė
+disperser,диспергатор,sklaidiklis
+displace,вытеснять,išstumti
+display,дисплей,ekranas
+displease,сердить,nepatikti
+disposal,удаление,šalinimas
+dispose,отчуждать,disponuoti
+disprove,опровергать,paneigti
+dispute,спор,ginčas
+disregard,невнимание,nepaisymas
+disrupt,срывать,sutrikdyti
+dissuade,разубеждать,atgrasyti
+distance,расстояние,atstumas
+distant,отдаленный,tolimas
+distaste,отвращение,atstumimas
+distill,дистиллирует,distiliuoti
+distinct,отчетливый,savitas
+distort,искажать,iškraipyti
+distract,отвлекают,atitraukti
+distress,горе,kančia
+district,район,rajonas
+distrust,недоверие,nepasitikėjimas
+ditch,ров,griovys
+ditto,то же самое,tas pats
+ditzy,ditzy,svaiginantis
+dividable,делящийся,dalijamas
+divided,разделенный,padalintas
+dividend,дивиденд,dividendas
+dividers,циркуль,dalikliai
+dividing,разделительный,dalijant
+divinely,божественно,dieviškai
+diving,подводное плавание,nardymas
+divinity,божественность,dieviškumas
+divisible,делимый,dalijamas
+divisibly,divisibly,dalijamai
+division,деление,padalijimas
+divisive,разделяющий,dalybos
+divorcee,разведенная,skyrybų dalyvis
+dizziness,головокружение,galvos svaigimas
+dizzy,голова кружится,apsvaigęs
+doable,выполнимый,vykdomas
+docile,послушный,paklusnus
+dock,док,prieplauka
+doctrine,учение,doktrina
+document,документ,dokumentas
+dodge,изворачиваться,vengti
+dodgy,изворотливый,nemandagus
+doily,салфетка,servetėlė
+doing,дела,daro
+dole,пособие по безработице,dole
+dollar,доллар,dolerių
+dollhouse,кукольный дом,lėlių namelis
+dollop,солидная порция,lėlė
+dolly,Долли,lėlė
+dolphin,дельфин,delfinas
+domain,домен,domenas
+domelike,куполообразный,dominantis
+domestic,внутренний,vidaus
+dominion,владычество,viešpatavimas
+dominoes,домино,domino
+donated,пожертвованный,paaukojo
+donation,пожертвование,aukojimas
+donator,жертвователь,donoras
+donor,донор,donoras
+donut,пончик,spurga
+doodle,болван,Doodle
+doorbell,дверной звонок,durų skambutis
+doorframe,дверная рама,durų rėmas
+doorknob,дверная ручка,durų rankenėlė
+doorman,швейцар,durininkas
+doormat,половик,Durų kilimėlis
+doornail,дверной гвоздь,doornail
+doorpost,дверной косяк,durų statramstis
+doorstep,порог,slenkstis
+doorstop,дверной ограничитель,durų staliukas
+doorway,дверной проем,durų
+doozy,Doozy,Doozy
+dork,придурок,durnas
+dormitory,общежитие,bendrabutyje
+dorsal,спинной,nugaros
+dosage,дозировка,dozavimas
+dose,доза,dozė
+dotted,пунктирный,taškinis
+doubling,удвоение,dvigubai
+douche,душ,duša
+dove,голубь,balandis
+down,вниз,žemyn
+dowry,приданое,kraitis
+doze,дремли,dusti
+drab,однообразный,drab
+dragging,перетаскивание,vilkdami
+dragonfly,стрекоза,laumžirgis
+dragonish,драконьей,drakoniškas
+dragster,драгстер,dragsteris
+drainable,осушаемыми,nusausinamas
+drainage,дренаж,kanalizacija
+drained,осушенных,nusausinti
+drainer,сушилка для посуды,kanalizacija
+drainpipe,водосточная труба,kanalizacijos vamzdis
+dramatic,драматичный,dramatiškas
+dramatize,драматизировать,dramatizuoti
+drank,пили,gėrė
+drapery,магазин тканей,draperija
+drastic,радикальный,drastiškas
+draw,привлечь,piešti
+dreaded,ужасный,bijojo
+dreadful,ужасный,baisus
+dreadlock,Dreadlock,dredas
+dreamboat,красавчик,svajonių kateris
+dreamily,мечтательно,svajingai
+dreamland,сказочная страна,svajonių šalis
+dreamless,без сновидений,nesvajingas
+dreamlike,призрачный,svajingas
+dreamt,снилось,svajojo
+dreamy,мечтательный,svajingas
+drearily,скучно,drąsiai
+dreary,тоскливый,niūrus
+drench,пропитывать,panardinti
+dress,платье,suknelė
+drew,нарисовал,atkreipė
+dribble,капать,driblioti
+dried,высушенный,džiovinti
+drier,сушилка,džiovintuvas
+drift,дрейф,dreifas
+driller,бурильщик,gręžtuvas
+drilling,бурение,gręžimas
+drinkable,годный для питья,geriamas
+drinking,питьевой,gerti
+dripping,капающий,lašinamas
+drippy,сентиментальный,lašinamas
+drivable,приводимый,vairuojamas
+driven,управляемый,varomas

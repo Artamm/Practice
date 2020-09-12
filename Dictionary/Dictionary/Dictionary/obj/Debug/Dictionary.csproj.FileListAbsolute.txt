@@ -1,0 +1,17 @@
+C:\Users\Abysswalker\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary.mdf
+C:\Users\Abysswalker\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary_log.ldf
+C:\Users\Abysswalker\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\Abysswalker\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary.exe.manifest
+C:\Users\Abysswalker\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary.application
+C:\Users\Abysswalker\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\Abysswalker\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\Abysswalker\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.Form1.resources
+C:\Users\Abysswalker\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.Form2.resources
+C:\Users\Abysswalker\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+C:\Users\Abysswalker\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+C:\Users\Abysswalker\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Abysswalker\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.exe.manifest
+C:\Users\Abysswalker\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.application
+C:\Users\Abysswalker\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\Abysswalker\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+C:\Users\Abysswalker\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
