@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.IO;
 using System.Linq;
 
 
@@ -11,17 +12,33 @@ namespace Labs
         public static void Main(string[] args)
         {
             var program = new Program();
+            var methods = new Methods();
 
 
             var students = new List<Student>();
+            var passed = new List<Student>();
+            var failed = new List<Student>();
+
+            Dictionary<string,long> speed = new Dictionary<string, long>();
+            speed.Add("overall_sort", 0);
+            speed.Add("2files_create", 0);
+            speed.Add("sort2files", 0);
+            speed.Add("file_read",0);
+
+
+            
             var flag = true;
 
             while (flag)
             {
-                Console.WriteLine("--------------Release v0.1----------------");
-                Console.WriteLine("1.{0}\n2.{1}\n3.{2}\n4.{3}\n{4}\n",
-                    "Create student", "Print students (Average)", "Print students (Median)", "Exit",
-                    "Your choice:");
+                Console.WriteLine("--------------Release v1.0----------------");
+                Console.WriteLine(
+                    "1.{0}\n2.{1}\n3.{2}\n4.{3}\n5.{4}\n6.{5}\n7.{6}\n8.{7}\n9.{8}\n10.{9}\n11.{10}\n{11}\n",
+                    "Create student", "Print students (Average)", "Print students (Median)", "Read from file",
+                    "Create hundreds", "Sort 2 files",
+                    "Speed Analysis for current list", "Container Testing", "Strategies comparison",
+                    "Five Tests Performance",
+                    "Exit", "Your choice:");
 
                 var choice = Console.ReadLine();
 
@@ -29,20 +46,62 @@ namespace Labs
                 {
                     case "1":
                     {
-                        students.Add(CreateStudent());
+                        students.Add(methods.CreateStudent());
                         break;
                     }
                     case "2":
                     {
-                        PrintAverage(students);
+                        methods.PrintAverage(students);
                         break;
                     }
                     case "3":
                     {
-                        PrintMedian(students);
+                        methods.PrintMedian(students);
                         break;
                     }
                     case "4":
+                    {
+                        methods.ReadData(students);
+                        break;
+                    }
+                    case "5":
+                    {
+                        methods.createHundreds(10000);
+                        methods.createHundreds(100000);
+                        methods.createHundreds(1000000);
+                        methods.createHundreds(10000000);
+                        break;
+                    }
+                    case "6":
+                    {
+                        methods.Sort2Files(students,speed,passed,failed);
+                        break;
+                    }
+                    case "7":
+                    {
+                        methods.SpeedAnalysis(students,speed,passed,failed);
+                        break;
+                    }
+                    case "8":
+                    {
+                        methods.ContainerTesting("students.txt");
+                        methods.ContainerTesting("10000Students.txt");
+                        methods.ContainerTesting("100000Students.txt");
+                        methods.ContainerTesting("1000000Students.txt");
+
+                        break;
+                    }
+                    case "9":
+                    {
+                        methods.CompareStrategies("students.txt");
+                        break;
+                    }
+                    case "10":
+                    {
+                       methods.FivePerformanceTests(students,speed,passed,failed);
+                       break;
+                    }
+                    case "11":
                     {
                         flag = false;
                         break;
@@ -54,150 +113,7 @@ namespace Labs
             }
         }
 
-        private static Student CreateStudent()
-        {
-            Console.WriteLine("Enter name:");
-            var name = Console.ReadLine();
-
-            Console.WriteLine("Enter surname:");
-            var surname = Console.ReadLine();
-            
-            var homeworks = new List<double>();
-            var check = true;
-            var next = 0;
-            while (check)
-            {
-                Console.WriteLine("Enter grade #" + (next + 1)+", write random or stop typing  ");
-                    var textGrade = Console.ReadLine();
-                    if (textGrade != null && textGrade.Equals(""))
-                    {
-                        check = false;
-                        break;
-                    }
-
-                    if (textGrade != null && double.TryParse(textGrade, out double grade) )
-                    {
-                        if (grade <= 10 & grade > 0)
-                        {
-                            homeworks.Add(grade);
-                            next++;
-                        }
-                    }
-                    if (textGrade.ToUpper().Equals("RANDOM"))
-                    {
-                        var random = new Random();
-                        var randomDouble = Math.Round(random.NextDouble() * 10,2);
-                        homeworks.Add(Math.Round(randomDouble,2));
-                        Console.WriteLine("your random double: " + randomDouble);
-                        next++;
-                    }
-            }
-
-
-            double exam;
-            Console.WriteLine("Enter exam grade or type random");
-            var textExam = Console.ReadLine();
-            if (textExam != null && textExam.ToUpper().Equals("RANDOM"))
-            {
-                Random random = new Random();
-                var randomDouble = random.NextDouble() * 10;
-                 exam = Math.Round(randomDouble,2);
-                Console.WriteLine("Your random double: " + randomDouble);
-
-            }
-            if (!double.TryParse(textExam, out  exam) & !textExam.ToUpper().Equals("RANDOM"))
-            {
-                Console.WriteLine("Wrong type. Exam grade will be 0");
-                exam = 0;
-            }
-
-            formatGrades(homeworks);
-            var numberHomeworks = homeworks.Count;
-            var homeworkArray = new double[numberHomeworks];
-            homeworkArray = homeworks.ToArray();
-            
-            return new Student(name, surname, homeworks, exam, homeworkArray, GradeMed(homeworks, exam),
-                GradeAverage(homeworks, exam));
-        }
-
-        private static void formatGrades(List<double> grades)
-        {
-            if (grades.Count == 0)
-            {
-                grades.Add(0);
-            }
-            
-        }
         
-
-        private static double GradeAverage(List<double> grades, double exam)
-        {
-            return grades == null ? Math.Round(exam * 0.7, 2) : Math.Round(grades.Average() * 0.3 + exam * 0.7, 2);
-        }
-
-        private static double GradeMed(List<double> grades, double exam)
-        {
-            
-            double median = grades.Count % 2 == 0
-                ? (grades[grades.Count / 2] + grades[(grades.Count / 2) - 1]) / 2
-                : grades[(grades.Count / 2)];
-            return  Math.Round((median * 0.3) + (exam * 0.7), 2);
-        }
-
-        private static void PrintAverage(List<Student> students)
-        {
-            var dataTable = new DataTable {TableName = "Grades"};
-            dataTable.Columns.Add("#", typeof(int));
-            dataTable.Columns.Add("Name", typeof(string));
-            dataTable.Columns.Add("Surname", typeof(string));
-            dataTable.Columns.Add("Final ponts(Aver.)", typeof(double));
-
-            var number = 1;
-            foreach (var student in students)
-            {
-                object[] row = {number, student.Name1, student.Surname1, student.FinalResultAverage};
-                dataTable.Rows.Add(row);
-                number++;
-            }
-
-            Console.WriteLine("|{0,05}|{1,15}|{2,15}|{3,20}|","#", "First Name:", "Last Name:", "Final points(Aver.)");
-            Console.WriteLine("-------------------------------------------------------------");
-            foreach (DataRow row in dataTable.Rows)
-            {
-                Console.WriteLine("|{0,05}|{1,15}|{2,15}|{3,20}| \n", row[0],
-                    row[1], row[2], row[3]);
-            }
-            Console.WriteLine("-------------------------------------------------------------\n");
-
-            
-        }
-        
-        private static void PrintMedian(List<Student> students)
-        {
-            var dataTable = new DataTable {TableName = "Grades"};
-            dataTable.Columns.Add("#", typeof(int));
-            dataTable.Columns.Add("Name", typeof(string));
-            dataTable.Columns.Add("Surname", typeof(string));
-            dataTable.Columns.Add("Final ponts(Median.)", typeof(double));
-
-            var number = 1;
-            foreach (var student in students)
-            {
-                object[] row = {number, student.Name1, student.Surname1, student.FinalResultMedian};
-                dataTable.Rows.Add(row);
-                number++;
-            }
-            dataTable.Rows.Add();
-            Console.WriteLine("|{0,05}|{1,15}|{2,15}|{3,20}|","#", "First Name:", "Last Name:", "Final points(Med.)");
-            Console.WriteLine("-------------------------------------------------------------");
-            foreach (DataRow row in dataTable.Rows)
-            {
-                Console.WriteLine("|{0,05}|{1,15}|{2,15}|{3,20}|", row[0],
-                    row[1], row[2], row[3]);
-            }
-            Console.WriteLine("-------------------------------------------------------------\n");
-            
-        }
         
     }
 }
